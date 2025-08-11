@@ -7,16 +7,20 @@ A comprehensive deep learning project for generating music across multiple genre
 ### 📹 Project Overview Video
 
 
+https://github.com/user-attachments/assets/f17a6c9f-6f78-49ce-9f36-0c3c2085612c
+
+
+
 ### 🎼 Genre Comparison Videos
 
-| Genre | Demo Video | Audio Characteristics |
+| Genre | Demo  | Audio Characteristics |
 |-------|------------|----------------------|
-| **Jazz** | [🎷 Jazz Demo](#jazz-video) | Complex harmonies, improvisation, syncopated rhythms |
-| **Classical** | [🎻 Classical Demo](#classical-video) | Orchestral arrangements, traditional scales, structured compositions |
-| **Rock** | [🎸 Rock Demo](#rock-video) | Power chords, strong rhythms, distorted guitar sounds |
-| **Electronic** | [🎹 Electronic Demo](#electronic-video) | Synthesized sounds, modern scales, digital effects |
-| **Blues** | [🎺 Blues Demo](#blues-video) | 12-bar patterns, blue notes, expressive phrasing |
-| **Pop** | [🎤 Pop Demo](#pop-video) | Catchy melodies, simple harmonies, contemporary production |
+| **Jazz** |https://github.com/user-attachments/assets/522f7aeb-b3d2-4837-bbc2-bb95f80baed7 | Complex harmonies, improvisation, syncopated rhythms |
+| **Classical** | https://github.com/user-attachments/assets/eb26b033-de4e-47b9-b475-872eae85c06b | Orchestral arrangements, traditional scales, structured compositions |
+| **Rock** | https://github.com/user-attachments/assets/267dfd43-fc69-4045-a5ab-355563f58ab3| Power chords, strong rhythms, distorted guitar sounds |
+| **Electronic** | https://github.com/user-attachments/assets/3ce52f3f-425e-49a6-b657-9ad311a10d04| Synthesized sounds, modern scales, digital effects |
+| **Blues** | https://github.com/user-attachments/assets/509fe70d-6053-4d1d-8032-24110d22ab4a| 12-bar patterns, blue notes, expressive phrasing |
+| **Pop** | https://github.com/user-attachments/assets/9e93af08-d2e3-435e-b576-b3be8b8b6376| Catchy melodies, simple harmonies, contemporary production |
 
 ## 🔍 Genre Differences & Characteristics
 
@@ -208,10 +212,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Issues**: Report bugs via GitHub Issues
 - **Discussions**: Join our GitHub Discussions
-- **Email**: support@musicgen-ai.com
+- **Email**: hamzabdulk@gmail.com
 
 ---
 
 **🎵 Start creating your AI-generated music today!** 🎵
 
-*Made with ❤️ by the AI Music Generation Team*
+*Made with ❤️ by Hamza Abdul Karim*
